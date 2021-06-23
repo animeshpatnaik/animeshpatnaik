@@ -14,3 +14,6 @@ print("length of string is:"+str(len(s)))
 
 s1=s[0:3]
 print("Substring is"+s1)
+
+s2=s[0:9:2]
+print("substring with steps:"+s2)
