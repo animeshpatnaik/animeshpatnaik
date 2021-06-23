@@ -9,3 +9,8 @@ print(s*2)
 #length of string
 
 print("length of string is:"+str(len(s)))
+
+#substring
+
+s1=s[0:3]
+print("Substring is"+s1)
